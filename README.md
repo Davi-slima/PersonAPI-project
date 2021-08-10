@@ -1,6 +1,6 @@
 # Sistema de gerenciamento de pessoas em API-REST
 
-Desenvolvi um pequeno sistema de gerenciamento de uma empresa através de uma API REST, criada com Spring boot.
+Desenvolvi um pequeno sistema para o gerenciamento de pessoas em uma empresa através de uma API REST, criada com Spring Boot.
 
 Ferramentas utilizadas para para o desenvolvimento desse projeto:
 
