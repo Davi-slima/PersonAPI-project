@@ -8,6 +8,7 @@ class PersonapiApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assert(true);
 	}
 
 }
