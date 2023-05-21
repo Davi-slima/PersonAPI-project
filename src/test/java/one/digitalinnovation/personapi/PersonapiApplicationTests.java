@@ -8,7 +8,7 @@ class PersonapiApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assert(true);
+		PersonapiApplication.main(new String[] {});
 	}
 
 }
